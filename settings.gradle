@@ -1,0 +1,1 @@
+include ':app', ':day24client', ':day24servicedemo', ':day24aidlservice'

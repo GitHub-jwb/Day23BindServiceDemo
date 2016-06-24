@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day23BindServiceDemo.iml" filepath="$PROJECT_DIR$/Day23BindServiceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24aidlservice/day24aidlservice.iml" filepath="$PROJECT_DIR$/day24aidlservice/day24aidlservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24client/day24client.iml" filepath="$PROJECT_DIR$/day24client/day24client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24servicedemo/day24servicedemo.iml" filepath="$PROJECT_DIR$/day24servicedemo/day24servicedemo.iml" />
+    </modules>
+  </component>
+</project>
